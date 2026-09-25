@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Testing123-qU5S.aternos.me",
-    "port":  60478,
+    "port": 60478,
     "version": "1.20.1",
     "try-creative": false
   },
